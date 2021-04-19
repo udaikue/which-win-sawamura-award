@@ -3,6 +3,9 @@
   "version": "1.0.1",
   "description": "Show right parson for Sawamura Award from two pitchers.",
   "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/udaikue/which-win-sawamura-award.git"

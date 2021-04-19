@@ -1,6 +1,6 @@
 {
   "name": "which-win-sawamura-award",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Show right parson for Sawamura Award from two pitchers.",
   "main": "index.js",
   "repository": {

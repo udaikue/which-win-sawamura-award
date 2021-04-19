@@ -10,6 +10,7 @@ npm install which-win-sawamura-award
 Input data of two pitchers, then show pitcher's name right parson for Sawamura Award.
 
 ```
+which-win-sawamura-award
 ✔ 1人目の投手の名前を入力してください · Maeda
 ✔ 登板試合数は? · 28
 ✔ 完投試合数は? · 6

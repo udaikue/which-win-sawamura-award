@@ -1,0 +1,24 @@
+{
+  "name": "which-win-sawamura-award",
+  "version": "1.0.0",
+  "description": "Show right parson for Sawamura Award from two pitchers.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udaikue/which-win-sawamura-award.git"
+  },
+  "keywords": [
+    "sawamura",
+    "npb",
+    "baseball"
+  ],
+  "author": "udaikue",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/udaikue/which-win-sawamura-award/issues"
+  },
+  "homepage": "https://github.com/udaikue/which-win-sawamura-award#readme",
+  "dependencies": {
+    "enquirer": "^2.3.6"
+  }
+}

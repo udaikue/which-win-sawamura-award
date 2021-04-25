@@ -112,7 +112,7 @@ async function input() {
 
 function isNAN (input) {
   for (let index = 1; index < 9; index++) {
-    if (isNaN(input[index][1]) === true) {
+    if (isNaN(input[index][1])) {
       return '入力エラー'
     }
   }
